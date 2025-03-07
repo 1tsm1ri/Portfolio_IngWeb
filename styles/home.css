@@ -198,3 +198,8 @@ footer {
     justify-content: center;
 }
 
+/* Contenido dirigido a JS */
+article:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out;
+}
