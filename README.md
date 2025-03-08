@@ -40,7 +40,7 @@ This project is my personal portfolio designed to showcase my skills, projects, 
 1. Clone or download the repository:
 
 ```bash
-git clone https://github.com/1tsm1ri/Portfolio_IngWeb.git
+git clone https://github.com/1tsm1ri/Portfolio_IngWeb_ver1.git
 ```
 
 2. Navigate to the project folder
